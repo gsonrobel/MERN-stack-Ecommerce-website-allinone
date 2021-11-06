@@ -6,7 +6,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:gsonrobel/allinone.git
+$ git clone https://github.com/gsonrobel/MERN-stack-Ecommerce-website-allinone.git
 $ cd amazona
 ```
 
